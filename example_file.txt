@@ -1,3 +1,7 @@
 Test
+<<<<<<< HEAD
 Test - 1
 Test - remote
+=======
+Test - merge conflict
+>>>>>>> feature/gui
